@@ -1,0 +1,22 @@
+{
+  "name": "mlk",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/susisu/mlk.git"
+  },
+  "author": "Susisu <susisu2413@yahoo.co.jp> (https://github.com/susisu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/susisu/mlk/issues"
+  },
+  "homepage": "https://github.com/susisu/mlk",
+  "dependencies": {
+    "loquat": "^1.2.0"
+  }
+}
