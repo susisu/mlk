@@ -18,5 +18,9 @@
   "homepage": "https://github.com/susisu/mlk",
   "dependencies": {
     "loquat": "^1.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-webpack": "^1.2.0"
   }
 }
